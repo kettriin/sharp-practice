@@ -1,0 +1,14 @@
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/bin/Debug/net9.0/dotnet-prsctice
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/bin/Debug/net9.0/dotnet-prsctice.deps.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/bin/Debug/net9.0/dotnet-prsctice.runtimeconfig.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/bin/Debug/net9.0/dotnet-prsctice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/bin/Debug/net9.0/dotnet-prsctice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/dotnet-prsctice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/dotnet-prsctice.AssemblyInfoInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/dotnet-prsctice.AssemblyInfo.cs
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/dotnet-prsctice.csproj.CoreCompileInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/dotnet-prsctice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/refint/dotnet-prsctice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/dotnet-prsctice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/dotnet-prsctice.genruntimeconfig.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/obj/Debug/net9.0/ref/dotnet-prsctice.dll

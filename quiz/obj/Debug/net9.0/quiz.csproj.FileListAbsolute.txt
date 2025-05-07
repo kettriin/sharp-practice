@@ -1,0 +1,15 @@
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/bin/Debug/net9.0/quiz
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/bin/Debug/net9.0/quiz.deps.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/bin/Debug/net9.0/quiz.runtimeconfig.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/bin/Debug/net9.0/quiz.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/bin/Debug/net9.0/quiz.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.AssemblyInfoInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.AssemblyInfo.cs
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.csproj.CoreCompileInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.sourcelink.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/refint/quiz.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/quiz.genruntimeconfig.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/quiz/obj/Debug/net9.0/ref/quiz.dll
