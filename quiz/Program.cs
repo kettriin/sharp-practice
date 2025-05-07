@@ -3,7 +3,7 @@ int count = 0;
 
 Console.Write("Что означает слово 'cat'? [кошка, собака]");
 string answer = Console.ReadLine();
-if (answer == "кошка")
+if (string.Equals(answer.Trim(), "кошка", StringComparison.OrdinalIgnoreCase))
 {
     Console.WriteLine("Всё верно! 😎");
     count ++;
@@ -15,7 +15,7 @@ else
 
 Console.Write("Что означает слово 'dog'? [кошка, собака]");
 answer = Console.ReadLine();
-if (answer == "собака")
+if (string.Equals(answer.Trim(), "собака", StringComparison.OrdinalIgnoreCase))
 {
     Console.WriteLine("Всё верно! 😎");
     count ++;
