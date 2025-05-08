@@ -1,0 +1,15 @@
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.AssemblyInfoInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.AssemblyInfo.cs
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.csproj.CoreCompileInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.sourcelink.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/bin/Debug/net9.0/method-practice
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/bin/Debug/net9.0/method-practice.deps.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/bin/Debug/net9.0/method-practice.runtimeconfig.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/bin/Debug/net9.0/method-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/bin/Debug/net9.0/method-practice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/refint/method-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/method-practice.genruntimeconfig.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/method-practice/obj/Debug/net9.0/ref/method-practice.dll
