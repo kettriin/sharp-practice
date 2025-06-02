@@ -1,0 +1,15 @@
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.AssemblyInfoInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.AssemblyInfo.cs
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.csproj.CoreCompileInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.sourcelink.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/bin/Debug/net9.0/delegate-practice
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/bin/Debug/net9.0/delegate-practice.deps.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/bin/Debug/net9.0/delegate-practice.runtimeconfig.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/bin/Debug/net9.0/delegate-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/bin/Debug/net9.0/delegate-practice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/refint/delegate-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/delegate-practice.genruntimeconfig.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/delegate-practice/obj/Debug/net9.0/ref/delegate-practice.dll
