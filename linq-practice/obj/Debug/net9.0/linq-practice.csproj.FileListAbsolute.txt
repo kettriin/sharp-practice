@@ -1,0 +1,15 @@
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.AssemblyInfoInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.AssemblyInfo.cs
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.csproj.CoreCompileInputs.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.sourcelink.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/bin/Debug/net9.0/linq-practice
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/bin/Debug/net9.0/linq-practice.deps.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/bin/Debug/net9.0/linq-practice.runtimeconfig.json
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/bin/Debug/net9.0/linq-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/bin/Debug/net9.0/linq-practice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/refint/linq-practice.dll
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.pdb
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/linq-practice.genruntimeconfig.cache
+/Users/katerinaborisova/Desktop/newContent/dotnet-prsctice/linq-practice/obj/Debug/net9.0/ref/linq-practice.dll
